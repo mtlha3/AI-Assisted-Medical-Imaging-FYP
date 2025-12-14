@@ -9,13 +9,13 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 // };
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDsTDjjoDgCtBVNcLAYOTrDEOcIxAhoPuw",
-  authDomain: "finalyearproject-bb61e.firebaseapp.com",
-  projectId: "finalyearproject-bb61e",
-  storageBucket: "finalyearproject-bb61e.firebasestorage.app",
-  messagingSenderId: "626702084740",
-  appId: "1:626702084740:web:64c3890e62c512e1a630d1",
-  measurementId: "G-QBZ0C8KQYP"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 const app = initializeApp(firebaseConfig);
