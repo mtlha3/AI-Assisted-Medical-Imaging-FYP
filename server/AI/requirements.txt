@@ -1,0 +1,11 @@
+flask
+tensorflow==2.20.0
+numpy
+opencv-python-headless
+matplotlib
+pandas
+tabulate
+Pillow
+cv2
+io
+os
